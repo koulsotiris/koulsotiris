@@ -13,13 +13,6 @@
 
 
 <p align="center">
-  <a href="https://www.dept.aueb.gr/cs" target="_blank">
-    <img src="https://img.shields.io/badge/computer--science-red?style=for-the-badge" />
-  </a>
-  <a href="https://www.dept.aueb.gr/cs" target="_blank">
-  <img src="https://img.shields.io/badge/Computer%20Science-AUEB-cc0000?style=flat-square&logoColor=white" />
-</a>
-
   <a href="https://www.linkedin.com/in/sotiriskoulouridis-2129a9334" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
