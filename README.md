@@ -8,9 +8,6 @@
 </p>
 
 <p align="center">
-</p>
-
-<p align="center">
   <a href="https://www.dept.aueb.gr/cs" target="_blank">
     <img src="https://img.shields.io/badge/computer--science-red?style=for-the-badge" />
   </a>
@@ -18,9 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
-
 
 ---
 
