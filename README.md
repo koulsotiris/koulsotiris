@@ -22,6 +22,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sotiriskoulouridis-2129a9334" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-View-black?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 
 ---
 
