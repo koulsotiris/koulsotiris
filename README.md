@@ -16,6 +16,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.dept.aueb.gr/cs" target="_blank">
+    <img src="https://img.shields.io/badge/Computer%20Science-Learning-%23FF4B4B?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 #### 🤝 Connect with me:
