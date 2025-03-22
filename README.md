@@ -45,27 +45,6 @@ C# .NET with MS SQL Complete Beginner to Master 2025
 </sub>
 
 
-<!-- Python -->
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-
-<!-- Java -->
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-
-<!-- Node.js -->
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-
-<!-- SQL -->
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-<!-- C++ -->
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
-
-<!-- C# -->
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-
 
 
   
