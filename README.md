@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 About Me 👨‍💻</h1>
 
-<!--
-**koulsotiris/koulsotiris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Name:** Sotiris Koulouridis  
+**Age:** 23 Y/O - Ath,Greece 
+🎓 **Graduate** - Computer Science @ [Your University]  
+💼 **Upcoming New Grad Software Dev Engineer** @ [Your Company]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>
+  <img src="https://img.shields.io/badge/-[Your University Abbr.]-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-[Your Department or Field]-red?style=for-the-badge" />
+</span>
+
+---
+### Connect with me:
+<p align="center">
+  <a href="www.linkedin.com/in/sotiriskoulouridis-2129a9334" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koulsotiris&langs_count=8&layout=compact&theme=dark" />
+</p>
+
+💡 **Currently Studying:**  NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+  
+
