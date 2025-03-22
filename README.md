@@ -6,9 +6,10 @@
   <strong>Age:</strong> 23 Y/O - Ath, Greece <br>
   <strong>Graduate:</strong> Computer Science @ AUEB&nbsp;
   <a href="https://www.dept.aueb.gr/cs" target="_blank">
-    <img src="https://img.shields.io/badge/Computer%20Science-AUEB-cc0000?style=flat-square&logo=academia&logoColor=white" style="vertical-align: middle; height: 18px;" />
+    <img src="https://img.shields.io/badge/Computer%20Science-AUEB-cc0000?style=flat-square&logo=academia&logoColor=white" style="vertical-align: middle; height: 16px;" />
   </a>
 </p>
+
 
 
 <p align="center">
