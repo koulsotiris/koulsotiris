@@ -6,10 +6,15 @@
 **Age:** 23 Y/O - Ath,Greece 
 🎓 **Graduate** - Computer Science @ Aueb
 
-<span>
-  <img src="https://img.shields.io/badge/AUEB-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/computer--science-red?style=for-the-badge" />
-</span>
+<p align="center">
+  <a href="https://www.dept.aueb.gr/cs" target="_blank">
+    <img src="https://img.shields.io/badge/AUEB-grey?style=for-the-badge" />
+  </a>
+  <a href="https://www.dept.aueb.gr/cs" target="_blank">
+    <img src="https://img.shields.io/badge/computer--science-red?style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
 ### Connect with me:
