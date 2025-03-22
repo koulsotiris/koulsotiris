@@ -1,10 +1,10 @@
-<h1 align="center">👨‍💻 About Me 👨‍💻</h1>
+<h1 align="center">About Me </h1>
 
 ---
 
 **Name:** Sotiris Koulouridis  
 **Age:** 23 Y/O - Ath,Greece 
-🎓 **Graduate** - Computer Science @ [Your University]  
+🎓 **Graduate** - Computer Science @ Aueb
 
 
 ---
