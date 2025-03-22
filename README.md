@@ -2,9 +2,9 @@
 
 ---
 <div align="center">
-  **Name:** Sotiris Koulouridis  
-  **Age:** 23 Y/O - Ath, Greece  
-  **Graduate** - Computer Science @ AUEB  
+  Name: Sotiris Koulouridis  
+  Age:** 23 Y/O - Ath, Greece  
+  Graduate - Computer Science @ AUEB  
 </div>
 
 <p align="center">
