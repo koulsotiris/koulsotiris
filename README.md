@@ -40,7 +40,6 @@ NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)<br>
 Developing Front-End Apps with React<br>
 C# .NET with MS SQL Complete Beginner to Master 2025
 </sub>
-:godmode:
 
 
 
