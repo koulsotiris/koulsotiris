@@ -5,6 +5,9 @@
   <strong> Name:</strong> Sotiris Koulouridis <br>
   <strong> Age:</strong> 23 Y/O - Ath, Greece <br>
   <strong> Graduate:</strong> Computer Science @ AUEB
+   <a href="https://www.dept.aueb.gr/cs" target="_blank">
+  <img src="https://img.shields.io/badge/Computer%20Science-AUEB-cc0000?style=flat-square&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
