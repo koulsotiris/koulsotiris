@@ -35,9 +35,9 @@
 ---
 
 💡 **Currently Studying:**  
-NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
-Developing Front-End Apps with React
-C# .NET with MS SQL Complete Beginner to Master 2025
+NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)  
+Developing Front-End Apps with React  
+C# .NET with MS SQL Complete Beginner to Master 2025  
 
   
 
