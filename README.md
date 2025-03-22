@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koulsotiris&langs_count=8&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koulsotiris&langs_count=8&layout=compact&theme=dark&hide=Jupyter%20Notebook" />
 </p>
 
 <sub>📌 Note: Jupyter Notebook files are excluded from the stats for better language distribution.</sub>
