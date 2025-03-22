@@ -14,14 +14,14 @@
 ---
 ### Connect with me:
 <p align="center">
-  <a href="www.linkedin.com/in/sotiriskoulouridis-2129a9334" target="_blank">
+  <a href="https://www.linkedin.com/in/sotiriskoulouridis-2129a9334" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
+
 ---
 
-### 📊 Most Used Languages:
 ### 📊 Most Used Languages:
 
 <p align="center">
