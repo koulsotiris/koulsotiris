@@ -30,7 +30,7 @@
 
 <sub>
 💡 <strong>Currently Studying:</strong><br>
-NodeJS 
+NodeJS <br>
 Developing Front-End Apps with React<br>
 </sub>
 
