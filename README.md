@@ -30,7 +30,7 @@
 
 <sub>
 💡 <strong>Currently Studying:</strong><br>
-NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)<br>
+NodeJS 
 Developing Front-End Apps with React<br>
 </sub>
 
