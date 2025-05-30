@@ -31,8 +31,7 @@
 
 <sub>
 💡 <strong>Currently Studying:</strong><br>
-NodeJS <br>
-Developing Front-End Apps with React<br>
+AWS:SAA <br>
 </sub>
 
 
