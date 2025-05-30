@@ -8,6 +8,7 @@
   <a href="https://www.dept.aueb.gr/cs" target="_blank">
     <img src="https://img.shields.io/badge/Computer%20Science-AUEB-cc0000?style=flat-square&logoColor=white" style="vertical-align: middle; height: 14px;" />
   </a>
+  <strong>Current Role:</strong> Integration Engineer @ Cognity
 </p>
 
 
